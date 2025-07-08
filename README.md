@@ -1,6 +1,8 @@
 <br clear="both">
 
-<h2 align="left">[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CC6CE7&size=40&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Esther+Nascimento;Eu+tenho+27+anos;Eu+sou+do+Rio+de+Janeiro;Curso+Sistema+de+Informação;Seja+bem-vindo!+:%29)](https://git.io/typing-svg) 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CC6CE7&size=40&center=true&vCenter=true&width=1000&lines=Ol%C3%A1,+meu+nome+%C3%A9+Esther+Nascimento;Eu+tenho+27+anos;Eu+sou+do+Rio+de+Janeiro;Curso+Sistema+de+Informa%C3%A7%C3%A3o;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
+
 <br><br>
 ---
 <br><br></h2>

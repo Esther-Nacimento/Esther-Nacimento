@@ -1,6 +1,9 @@
 <br clear="both">
 
-<h2 align="left">👋 Oi, sou a Esther Nascimento!</h2>
+<h2 align="left">[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CC6CE7&size=40&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Esther+Nascimento;Eu+tenho+27+anos;Eu+sou+do+Rio+de+Janeiro;Curso+Sistema+de+Informação;Seja+bem-vindo!+:%29)](https://git.io/typing-svg) 
+<br><br>
+---
+<br><br></h2>
 
 ###
 

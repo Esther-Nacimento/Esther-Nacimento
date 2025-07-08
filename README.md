@@ -1,7 +1,11 @@
-<br clear="both">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CC6CE7&height=120&section=header"/>
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CC6CE7&size=40&center=true&vCenter=true&width=1000&lines=Ol%C3%A1,+meu+nome+%C3%A9+Esther+Nascimento;Eu+tenho+27+anos;Eu+sou+do+Rio+de+Janeiro;Curso+Sistema+de+Informa%C3%A7%C3%A3o;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=CC6CE7&size=40&center=true&vCenter=true&width=800&lines=Olá,+meu+nome+é+Esther+Nascimento;Eu+tenho+27+anos;Eu+sou+do+Rio+de+Janeiro;Curso+Sistema+de+Informação;Seja+bem-vindo!+:%29" alt="Typing SVG" />
+  </a>
+  <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" alt="gatinho" width="120" style="margin-left: 20px;" />
+</p>
 
 <br><br>
 ---

@@ -2,12 +2,12 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=CC6CE7&size=35&center=false&vCenter=true&width=600&lines=Olá,+meu+nome+é+Esther; Tenho+27+anos;Sou+do+Rio+de+Janeiro;Curso+Sistema+de+Informação;Seja+bem-vindo!+:%29" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=CC6CE7&size=35&center=false&vCenter=true&width=650&lines=Seja+Bem-vindo!+:%29;Sou+a+Esther;Moro+no+Rio+de+Janeiro;Estou+cursando+Sistema+de+Informação%C3%A7%C3%A3o." alt="Typing SVG" />
   </a>
   <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" alt="gatinho" width="100" style="margin-left: 15px;" />
 </p>
 
-
+</p>
 <br><br>
 ---
 <br><br></h2>

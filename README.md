@@ -12,10 +12,11 @@
 ### 👩🏻‍💻 Sobre mim
 
 Moro no Rio de Janeiro e estou cursando **Sistemas de Informação**. Sou curiosa por natureza e adoro aprender coisas novas.  
-No momento, estou focando meus estudos em **Desenvolvimento Front-End** e **Banco de Dados**, com muita prática e exercícios 
-para fixar bem o conteúdo. 
+No momento, estou focando meus estudos em **Desenvolvimento Front-End** e **Banco de Dados**, com muita prática e 
+exercícios para fixar bem o conteúdo. 
 Ainda sou uma jovem padawan na tecnologia haha, mas sigo firme dando um commit de cada vez 🌌
 
+<br clear="both">
 <br clear="both">
 
 <div align="center">
@@ -31,11 +32,13 @@ Ainda sou uma jovem padawan na tecnologia haha, mas sigo firme dando um commit d
 </div>
 
 <br clear="both">
+<br clear="both">
 
 <div align="center">
   <img height="350" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" />
 </div>
 
+<br clear="both">
 <br clear="both">
 
 <div align="center">

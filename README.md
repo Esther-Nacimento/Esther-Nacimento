@@ -20,7 +20,7 @@
 <div>
   <h2 align="left">🧠 Skills</h2>
 
-<div align="center">
+<h2 align ="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" />
@@ -30,18 +30,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
   <img src="https://skillicons.dev/icons?i=github" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" />
-</div>
-
-</div>
-<h2></h2>
-<div>
+<span style="position: relative; top: 4px;"></span>
+</h2>
 
 </div>
 <div align="center">
   <img height="350" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" />
 </div>
 
-
+</div>
+<div>
+<br><br>
   <div align="center">
     <a href="https://www.linkedin.com/in/esther-nascimento-/" target="_blank">
       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" />
@@ -52,11 +51,12 @@
   </div>
 </div>
 
-<!-- 🔹 Linha fininha entre contatos e frase final -->
-<hr>
+</div>
+<h2></h2>
+<div>
 
 <h6 align="center">"Que a Força esteja com você." ✨</h6>
 
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=CC6CE7&section=footer&reversal=true&textBg=false"/>
 
 

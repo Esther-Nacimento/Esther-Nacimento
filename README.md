@@ -57,6 +57,6 @@
 
 <h6 align="center">"Que a Força esteja com você." ✨</h6>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=CC6CE7&section=footer&reversal=true&textBg=false"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=CC6CE7&section=footer&reversal=true&textBg=false"/>
 
 

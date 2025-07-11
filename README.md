@@ -16,7 +16,7 @@ No momento, estou focando meus estudos em **Desenvolvimento Front-End** e **Banc
 para fixar bem o conteúdo. 
 Ainda sou uma jovem padawan na tecnologia haha, mas sigo firme dando um commit de cada vez 🌌
 
----
+<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" height="40" alt="csharp logo" />
@@ -30,13 +30,13 @@ Ainda sou uma jovem padawan na tecnologia haha, mas sigo firme dando um commit d
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" alt="git logo" />
 </div>
 
----
+<br clear="both">
 
 <div align="center">
   <img height="350" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" />
 </div>
 
----
+<br clear="both">
 
 <div align="center">
   <a href="https://www.linkedin.com/in/esther-nascimento-/" target="_blank">
@@ -47,6 +47,6 @@ Ainda sou uma jovem padawan na tecnologia haha, mas sigo firme dando um commit d
   </a>
 </div>
 
----
+<br clear="both">
 
 <h6 align="center">"Que a Força esteja com você." ✨</h6>

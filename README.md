@@ -13,7 +13,8 @@
 
 Moro no Rio de Janeiro e estou cursando **Sistemas de Informação**. Sou curiosa por natureza e adoro aprender coisas novas.  
 No momento, estou focando meus estudos em **Desenvolvimento Front-End** e **Banco de Dados**, com muita prática e 
-exercícios para fixar bem o conteúdo. 
+exercícios
+ para fixar bem o conteúdo. 
 Ainda sou uma jovem padawan na tecnologia haha, mas sigo firme dando um commit de cada vez 🌌
 
 <br clear="both">
